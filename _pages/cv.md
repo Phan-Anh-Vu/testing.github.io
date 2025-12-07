@@ -11,10 +11,16 @@ redirect_from:
 
 Education
 ======
+
+
 Work experience
 ======
+
+  
 Skills
 ======
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -35,3 +41,4 @@ Teaching
   
 Service and leadership
 ======
+* Currently signed in to 43 different slack teams
